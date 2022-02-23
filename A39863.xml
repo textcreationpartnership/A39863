@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the country of Jansenia wherein is treated of the singularities founded therein, the customes, manners, and religion of it's inhabitants : with a map of the countrey / composed in French by Lewis Fountaine, Esq ; and newly translated into English by P.B.</title>
+            <title>Relation du pays de Jansénie. English.</title>
+            <author>Zacharie de Lisieux, père, O.F.M. cap., 1582-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39863</idno>
+            <idno type="STC">Wing F1410</idno>
+            <idno type="STC">ESTC R38878</idno>
+            <idno type="EEBO-CITATION">18183469</idno>
+            <idno type="OCLC">ocm 18183469</idno>
+            <idno type="VID">106942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106942)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1123:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the country of Jansenia wherein is treated of the singularities founded therein, the customes, manners, and religion of it's inhabitants : with a map of the countrey / composed in French by Lewis Fountaine, Esq ; and newly translated into English by P.B.</title>
+                  <title>Relation du pays de Jansénie. English.</title>
+                  <author>Zacharie de Lisieux, père, O.F.M. cap., 1582-1661.</author>
+                  <author>P. B.</author>
+               </titleStmt>
+               <extent>[8], 118 p., [1] leaf of plates (folded) : 1 map.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, &amp; are sold by A. Banks and C. Harper...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Relation du pays de Janénie. Paris, 1660.</note>
+                  <note>First ed. of the first English translation--cf. H.S. Mott's Booklist, 1985.</note>
+                  <note>A satire on Jansenism.</note>
+                  <note>Page 117 misnumbered as 171.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jansenists --  Anecdotes</term>
+               <term>Utopias.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106942:1" rendition="simple:additions"/>
+            <head>A RELATION OF THE COUNTRY OF JANSENIA; WHEREIN Is treated of the Singularities founded therein, the Cuſtomes, Manners, and Religion of it's Inhabitants.</head>
+            <p>With a Map of the Countrey.</p>
+            <p>Compoſed in French by <hi>Lewis Foun<g ref="char:EOLhyphen"/>taine,</hi> 
+               <abbr>Eſq</abbr> And newly Tranſla<g ref="char:EOLhyphen"/>ted into Engliſh by <hi>P. B.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for the Author, &amp; are ſold by <hi>A. Banks,</hi> and <hi>C. Harper,</hi> over againſt St. <hi>Dunſtans-Church</hi> in <hi>Fleetſtreet</hi> 1668</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106942:2" rendition="simple:additions"/>
+            <pb facs="tcp:106942:2"/>
+            <head>TO MONSIEUR DE***</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have heard you often complain that we ſee Relations enough of <hi>Chi<g ref="char:EOLhyphen"/>na</hi> and <hi>Canada,</hi> but that none had yet appeared which truly declared, what Country <hi>Janſenia</hi> is. Be content, Sir, here is what you have longed for, ano<g ref="char:EOLhyphen"/>ther would have made a great volume hereof, but
+<pb facs="tcp:106942:3"/>I know how tedious pro<g ref="char:EOLhyphen"/>lixity is to you: I have conſidered your inclinati<g ref="char:EOLhyphen"/>on, and to tell you all, my own, which does not carry me to that enlargement of ſpeeches which you tearm the profit of the Stationer, and the torment of the Reader. If I had fur<g ref="char:EOLhyphen"/>ther amplified my diſ<g ref="char:EOLhyphen"/>courſe, you would per<g ref="char:EOLhyphen"/>haps have laid it aſide, either through contempt or irkſomneſs, as we do great talkers; and many
+<pb facs="tcp:106942:3"/>perſons who abridge themſelves of their dear<g ref="char:EOLhyphen"/>eſt ſatisfaction would have eaſily bereaved themſelves of a Book that had coſt more. We may tell many things in ſeven or eight leafs of pa<g ref="char:EOLhyphen"/>per, and I am miſtaken if you find nothing in theſe that approach Col<g ref="char:EOLhyphen"/>ledge amplifications, or the ſtyle of Commenta<g ref="char:EOLhyphen"/>ries. I had believed that the diſcourſe I addreſs unto you ſhould have been
+<pb facs="tcp:106942:4"/>ſufficient to ſatisfie your curioſity, and that of the publick alſo, but ſome body adviſed me to joyn to it the Map which you ſee here, where in a moment the ſite of the Country is ex<g ref="char:EOLhyphen"/>poſe to the worlds view; the Rivers that water it, and that bind it to the neighbouring kingdomes; the ſeveral things that it produceth, and the Sea where all the waters of ſo famous a Country fall. Some one will perhaps
+<pb facs="tcp:106942:4"/>have a deſire to make a more exact and regulate deſcription of it, when he hath ſeen this, I ſhall be very glad of it, and I'm ſure 'twill have a greater ſale in <hi>France,</hi> than the Almanack that made ſo much noiſe, after the De<g ref="char:EOLhyphen"/>claration of Pope <hi>Inno<g ref="char:EOLhyphen"/>cent</hi> the tenth, and ſince <hi>Janſeniſme</hi> was beaten down. I would not dare to tell you, that you will do that better than any other, for it would be to excite
+<pb facs="tcp:106942:5"/>you to follow my lights, and I acknowledge that I have none which equal yours. Do then, Sir, what you pleaſe; and believe me ever,</p>
+            <closer>
+               <signed>Your moſt humble, and obedient Servant, FONTAINE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106942:5"/>
+            <head>A RELATION OF THE COUNTRY OF JANSENIA, In which 'tis diſcourſed of the Singularities that are there, of the Cuſtomes, Manners, and Religion of its Inhabitants.</head>
+            <p>I Will make the deſcripti<g ref="char:EOLhyphen"/>on of a Country, which to this day, the Geogra<g ref="char:EOLhyphen"/>phers have never ſpoken of,
+<pb n="2" facs="tcp:106942:6"/>and they muſt believe what I'l tell of it, becauſe I have been there; I dwelt in it al<g ref="char:EOLhyphen"/>moſt five years, and I will ſay nothing but upon the faith of my own eyes.</p>
+            <p>
+               <hi>Janſenia</hi> is a very pleaſant and fertile Province, plac'd betwixt <hi>Libertinia,</hi> that li<g ref="char:EOLhyphen"/>mits it on the <hi>Oriental</hi> part by it's vaſt and champion grounds. <hi>Deſeſperia</hi> (almoſt filled with ſands and ſtony ways) that bounds it on the <hi>Occidental</hi> part, and <hi>Calvinia</hi> that borders it on the <hi>Septen<g ref="char:EOLhyphen"/>trional</hi> part. On the <hi>Meridio<g ref="char:EOLhyphen"/>nal</hi> coaſt it hath that tempe<g ref="char:EOLhyphen"/>ſtuous <hi>Sea,</hi> the depth where<g ref="char:EOLhyphen"/>of could never yet be found,
+<pb n="3" facs="tcp:106942:6"/>and which is no leſs renound for the <hi>Monſters</hi> it bears than for the Ships that periſh therein.</p>
+            <p>The chief Town, where there is a Soveraign Court and an Univerſity, is ſituated exactly in the middle of the Country over which it rules, and it is believed that the principal Founders thereof judged it moſt expedient to place it there, for the greater conveniency of going into the three neighbouring Pro<g ref="char:EOLhyphen"/>vinces; for thus the ways are equal in length, &amp; to what<g ref="char:EOLhyphen"/>ſoever part a man will go, the way is ſo little weariſome, that a <hi>Janſenian</hi> if he be a
+<pb n="4" facs="tcp:106942:7"/>good foot-man, on conditi<g ref="char:EOLhyphen"/>on that he puts forth betimes may go thither with eaſe in four days. There are always ſome Poſts ordained for thoſe that are in more haſt, and ſome Coaches which never fail to go on their ap<g ref="char:EOLhyphen"/>pointed days.</p>
+            <p>That Land was firſt inha<g ref="char:EOLhyphen"/>bited by a <hi>Colony</hi> of <hi>Flem<g ref="char:EOLhyphen"/>ings,</hi> who named it, and who ſoon after made it famous, through the novelty of their Laws. Curioſity and Inte<g ref="char:EOLhyphen"/>reſt have ſince that drawn into it many people of di<g ref="char:EOLhyphen"/>vers Nations, who have made it populous as we ſee at this time.</p>
+            <pb n="5" facs="tcp:106942:7"/>
+            <p>The Men of this Coun<g ref="char:EOLhyphen"/>try are commonly very lit<g ref="char:EOLhyphen"/>tle, and the talleſt do not paſs our moderate ſtature, although the Pictures which they make of them, do re<g ref="char:EOLhyphen"/>preſent them all of an extra<g ref="char:EOLhyphen"/>ordinary magnitude.</p>
+            <p>They have a ſmall head, but very hard in reſpect of the <hi>ſpiſſitude</hi> of their brain<g ref="char:EOLhyphen"/>pans, and their minds follow the conſtitution of their bo<g ref="char:EOLhyphen"/>dies.</p>
+            <p>By the diſſection that was made of them at ſeveral times, it hath been found, that many of them have a double heart, and 'tis belie<g ref="char:EOLhyphen"/>ved that this is the cauſe
+<pb n="6" facs="tcp:106942:8"/>they are not ſincere in their proceedings; they have al<g ref="char:EOLhyphen"/>ways divers ends, and at the ſame time they can intend contraries.</p>
+            <p>Their moſt ordinary ſick<g ref="char:EOLhyphen"/>neſs is a dangerous ſwelling, whereof they almoſt all dye, and for which yet they could never yet find any remedy, but by going forth of their Country, whereunto very few can be perſwaded, for the climate ſeems to them very ſweet, and when they perceive that any one of their Country will part from them, they uſe ſo many artifices, and oblige them in ſo many faſhions, that
+<pb n="7" facs="tcp:106942:8"/>they force them to ſtay there.</p>
+            <p>They Rule themſelves by the Moon, and not by the Sun, as do other Nations; and half their time they know not how they live, becauſe their clocks never go well, being ſo little indu<g ref="char:EOLhyphen"/>ſtrious to direct them, as the inward part of the <hi>Machine</hi> is never correſpondent to the outward, that is to ſay, to the Hand of the Clock. Their Houſes are almoſt like ours, and every one hath its back-door, for the greater commodity of going whi<g ref="char:EOLhyphen"/>ther they pleaſe, without be<g ref="char:EOLhyphen"/>ing peceived by any.</p>
+            <pb n="8" facs="tcp:106942:9"/>
+            <p>They viſit one another rather by night than day, to the end (ſay they) they may gain that time upon ſleep; and all their chief buſi<g ref="char:EOLhyphen"/>neſſes are treated but by the Candle.</p>
+            <p>To make a diſtinction between themſelves and other people (which they much covet) they affect a particular character, which is obſerv'd in their manner of living, in their apparel, and in their Language. They march even on a certain pace which they have learn'd, they uſe Tones which are not uſual with us, and at every moment they
+<pb n="9" facs="tcp:106942:9"/>turn up their eyes with mea<g ref="char:EOLhyphen"/>ſure (which they tearm <hi>the Apoſtrophes of the ſight</hi>) and that in ſuch a faſhion that you would ſay they are even ready to die.</p>
+            <p>They eſteem themſelves the moſt learnd men in the world, and there is no ſo petty a School-maſter or Cook among them, wearing along Coat, who hath not that judgment of himſelf. They believe alſo that they alone poſſeſs <hi>the Tree of Knowledge of good and evil,</hi> and the fruit that proceeds from it being not commu<g ref="char:EOLhyphen"/>nicated to others, they muſt of neceſſity be igno<g ref="char:EOLhyphen"/>rant
+<pb n="10" facs="tcp:106942:10"/>of the beſt things.</p>
+            <p>Printing is the Art to which they moſt apply themſelves, and wherein they have beſt ſucceſs, and indeed we ſee nothing more exact nor more pretty then what they do in that kind. But they care not ſo much for the matter or ſubſtance, as for the manner of hand<g ref="char:EOLhyphen"/>ling it. If ſomething ſlip in it againſt good faith or the truth, they trouble not themſelves much for that, on condition that their Er<g ref="char:EOLhyphen"/>rata's be perfectly corrected, in fair Characters, in fine Paper, and very neatly bound. This makes them
+<pb n="11" facs="tcp:106942:10"/>go off readily, eſpecially among women, who are much taken with fine guild<g ref="char:EOLhyphen"/>ed books, without looking any further into the matter.</p>
+            <p>All the <hi>Armes</hi> which they uſe come to them from <hi>Cal<g ref="char:EOLhyphen"/>vinia,</hi> either becauſe they have not the Art to make them themſelves, or becauſe they will not take ſo much pains, but they Poliſh them excellently, and make them ſo fair and clear, that the <hi>Lawyers, Women</hi> alſo buy them often enough for cu<g ref="char:EOLhyphen"/>rioſity ſake to ſet out their Cloſſets with them.</p>
+            <p>Hereof they give every year ſome preſents to one
+<pb n="12" facs="tcp:106942:11"/>an other for <hi>New-years-gifts,</hi> and I could not one day forbear laughing at a Lady who bargain'd for <hi>a pair of Piſtols</hi> for a preſent to her friend.</p>
+            <p>They uſe onely <hi>White-powder,</hi> wherein they are very dangerous; nevertheleſs being the cuſtome of the Country no body reproves it, and they laugh at us, who cannot uſe a Gun without making it known to all the Neighbours, nor kill a Bird without noiſe.</p>
+            <p>They have many famous <hi>Fairs,</hi> to which the <hi>Calviniſts</hi> ſend whole Libraries, which are ſold in the twink<g ref="char:EOLhyphen"/>ling
+<pb n="13" facs="tcp:106942:11"/>of an eye, for there is a great correſpondency be<g ref="char:EOLhyphen"/>tween them and the <hi>Janſeniſts,</hi> as well for learning as for Armes, and they alſo mutually lend their Profeſ<g ref="char:EOLhyphen"/>ſors, when by death ſome Chair is vacant, and they have no body to ſupply it.</p>
+            <p>From thence alſo they have the fineſt <hi>Characters</hi> which they uſe in their Im<g ref="char:EOLhyphen"/>preſſions, and they have of all ſorts but <hi>Roman letters.</hi>
+            </p>
+            <p>They traffick in <hi>Liberti<g ref="char:EOLhyphen"/>nia,</hi> with their Neighbours, and draw from them much money for the Merchandiſes which they ſend thither, which are <hi>Wines, Su<g ref="char:EOLhyphen"/>gars,
+<pb n="14" facs="tcp:106942:12"/>Ambergrcece,</hi> which is common enough in their Coaſts, <hi>Silks, Fine Linnen,</hi> and many other things which ſerve <hi>for pleaſure</hi> and <hi>ſenſuality.</hi>
+            </p>
+            <p>Their Traffick is more ſad and of leſs profit in Deſeſperia, whither they ſend onely that which is moſt conformable to the humour of the Country, that is to ſay, <hi>Knives, Cordes, Hemp,</hi> to uſe as they liſt, <hi>Herſecloaths</hi> of divers ſtuffs and ſeveral prices, <hi>Torches</hi> for Burials, <hi>Druggs</hi> to Embalm the Corps, <hi>Marble-tables, Plates</hi> of Braſs ſitted for the reception of
+<pb n="15" facs="tcp:106942:12"/>
+               <hi>Epitaphs.</hi> If they apply themſelves to ſome <hi>Science,</hi> 'tis always without tying themſelves to any <hi>form,</hi> for they had rather <hi>make</hi> Rules than <hi>receive</hi> them, yea they conteſt the <hi>principles</hi> which all others agree in.</p>
+            <p>Their <hi>Philoſophers</hi> admit not the <hi>common ſenſe,</hi> and when I was in the Country, one of their Profeſſors was caſhiered for making it one of the Articles of his diſ<g ref="char:EOLhyphen"/>pute.</p>
+            <p>Behold now how they paſs their <hi>Doctors:</hi> He that will be received preſents himſelf into the Company of the <hi>Expert</hi> ('tis ſo they
+<pb n="16" facs="tcp:106942:13"/>tearm it) and after be hath given many proofs of his capacity by a publick diſ<g ref="char:EOLhyphen"/>pute, if he hath the major part of the voices, they cauſe him firſt to ſwear up<g ref="char:EOLhyphen"/>on a Book, which they call the <hi>Holy Book,</hi> never to depart from the Doctrine of the <hi>Country.</hi> This <hi>Book</hi> is of no leſs veneration among them than was heretofore that of the <hi>Sybill's</hi> in <hi>Rome.</hi>
+            </p>
+            <p>And although the People know not what it contains, nevertheleſs upon the be<g ref="char:EOLhyphen"/>liefe they have given it, that it is full of <hi>Oracles</hi> and <hi>Revelations</hi> from God, he kiſſes the <hi>Cover</hi> of it with
+<pb n="17" facs="tcp:106942:13"/>reſpect when they permit him it, and believes that happy are the <hi>gardians</hi> of that ſacred Volume wherein are contained ſo many <hi>my<g ref="char:EOLhyphen"/>ſteries.</hi>
+            </p>
+            <p>After this they give the new <hi>Doctour</hi> a Robe of <hi>courſe Bays,</hi> having the ſleeves lined with <hi>Fox-skins</hi> in ſtead of <hi>Ermines;</hi> which being done, they put upon his Head an old Hat, which ſerves always at ſuch a Ce<g ref="char:EOLhyphen"/>remony; 'tis that of the Doctour that firſt founded their <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> and which they have conſerved ever ſince his death, becauſe they fancy that no Doctour
+<pb n="18" facs="tcp:106942:14"/>can be well inſtituted or worthy of his dignity, if he hath not worn that Hat. The laſt Ceremony is the <hi>Green Cap,</hi> and whoſoever is pro<g ref="char:EOLhyphen"/>moted to this dignity, may aſſure himſelf of, being at eaſe all his life time; for the people tax themſelves to maintain him fatly, &amp; the devout Women take care of that religious ſervice.</p>
+            <p>
+               <hi>Rhetorick</hi> is ſo much uſed in <hi>Janſenia,</hi> that every one hath a hand in it; but they cannot suffer <hi>Muſick,</hi> therefore they will never hear of any accord. Not<g ref="char:EOLhyphen"/>withſtanding they love the <hi>Trumpet,</hi> for as much as it
+<pb n="19" facs="tcp:106942:14"/>ſerves at war, to which they have a great inclination, al<g ref="char:EOLhyphen"/>beit they are always over<g ref="char:EOLhyphen"/>come, and never return without ſome Badges there<g ref="char:EOLhyphen"/>of. When they have loſt a Battle, they are ſo ſubtle in diſguiſing their trouble, that to ſee and hear them you would think they had won it; and t' amuſe the people, their Commanders never fail to ordain that there be put in their Churches with great Ceremony, ſome Standards as taken from the Enemy, which notwithſtanding they themſelves have made to ſerve to that uſe of vanity.</p>
+            <pb n="20" facs="tcp:106942:15"/>
+            <p>'Tis a great pleaſure to hear them ſpeak of th' <hi>An<g ref="char:EOLhyphen"/>tiquity</hi> of their Town. They ſay 'twas built by a Prince of <hi>Hippo,</hi> who liv'd above twelve hundred years ago, and they boaſt that they have Titles that prove it ſo plainly, that 'tis impoſſible to ſcruple it. Their hardi<g ref="char:EOLhyphen"/>eſt <hi>Annaliſts</hi> go farther, and averr that this Lord did on<g ref="char:EOLhyphen"/>ly repair it; that it had been founded four hundred years before, by a famous Prince of <hi>Tarſus</hi> a great Warriour, who lived in the time of <hi>Gamaliel,</hi> and who in his Youth had that famous Perſon for his Tu<g ref="char:EOLhyphen"/>tor
+<pb n="21" facs="tcp:106942:15"/>and <hi>Inſtructour.</hi>
+            </p>
+            <p>To this effect they ſhew unto <hi>Strangers</hi> a great <hi>Sword,</hi> which they ſay is the ſame that he uſed in his Battels, as that of the <hi>Pucelle d' Orleans</hi> is ſhown at Saint <hi>Denis</hi> near <hi>Paris.</hi> But I was informed by a <hi>Janſenian,</hi> a friend of mine, and one more inge<g ref="char:EOLhyphen"/>nuous than the reſt, that this <hi>Sword</hi> was but of <hi>thirty</hi> years ſtanding; that they had fram'd it after the faſhion of Old Armes, and that he that made it died within theſe few ears.</p>
+            <pb n="22" facs="tcp:106942:16"/>
+            <p>The whole Town is full of <hi>Statues</hi> which they have caus'd to be perfumed with ſmoak to give them the co<g ref="char:EOLhyphen"/>lour which time gives to it's works; but 'tis not ne<g ref="char:EOLhyphen"/>ceſſary to be very skillful in Antiquity to diſcover the fraud; and yet as there are in the Country ſome <hi>Hiſto<g ref="char:EOLhyphen"/>riographers</hi> maintained to compoſe ſome books wherein thoſe falſities are contain'd, and certain men appointed to diſtribute them up and down, the ſot<g ref="char:EOLhyphen"/>tiſh people believe what is Printed, and they vaunt themſelves of Antiquity which makes the more clear<g ref="char:EOLhyphen"/>er
+<pb n="23" facs="tcp:106942:16"/>underſtandings among them to laugh at themſelves when no body is by to hear them. If any ſtranger de<g ref="char:EOLhyphen"/>ſires to be naturalized in the Country, they do not im<g ref="char:EOLhyphen"/>pede him, for as much as they believe that it is the honour of the Nation, and inſtead of making him pay for his Letters, they even hive him money to receive them, which is the cauſe that many who are reduc'd to poverty, forſake their Country, where they hope for nothing from fortune; but thoſe who are thus re<g ref="char:EOLhyphen"/>ceiv'd and admitted can<g ref="char:EOLhyphen"/>not be promoted to any em<g ref="char:EOLhyphen"/>ployment
+<pb n="24" facs="tcp:106942:17"/>till time doth make appear they have got<g ref="char:EOLhyphen"/>ten the <hi>Spirit</hi> of the Land, that there is no more fear of them, and are very ſe<g ref="char:EOLhyphen"/>cret perſons; for diffidence is natural to all <hi>Janſenians,</hi> and that ſo much, that even in trivial things, they uſe precaution; for that cauſe they entertain a great num<g ref="char:EOLhyphen"/>ber of Spies in all parts to relate unto them what is done, and are at a great charge in Letters, that what is ſaid hereof ſeems incredi<g ref="char:EOLhyphen"/>ble.</p>
+            <p>There is no Kingdom in the World wherein Scien<g ref="char:EOLhyphen"/>ces be better rewarded, nor
+<pb n="25" facs="tcp:106942:17"/>after a more honourable manner, and there is ſeen in the publick place, a <hi>Sta<g ref="char:EOLhyphen"/>tue</hi> with it's Elogy, to eter<g ref="char:EOLhyphen"/>nize the memory of a per<g ref="char:EOLhyphen"/>ſon, who in his time was employed in <hi>Italy</hi> in a ne<g ref="char:EOLhyphen"/>gotiation with little ſuc<g ref="char:EOLhyphen"/>ceſs; 'tis ſaid alſo, that ſome one had taken occa<g ref="char:EOLhyphen"/>ſion from thence to put theſe two Latine words at the foot of the Figure, <hi>Iti<g ref="char:EOLhyphen"/>neri, non tibi;</hi> to declare that this honour was order<g ref="char:EOLhyphen"/>ed him, not becauſe he had <hi>done well,</hi> but to <hi>pay his journey.</hi>
+            </p>
+            <p>Thoſe kind of rewards are ſo common in the
+<pb n="26" facs="tcp:106942:18"/>Country, that two men have received the ſame ho<g ref="char:EOLhyphen"/>nour for having both Com<g ref="char:EOLhyphen"/>poſed a <hi>Book</hi> upon the <hi>Laws</hi> that are obſerved a<g ref="char:EOLhyphen"/>mong them, the learneder of them having afforded the <hi>matter,</hi> and the other the <hi>fair teams,</hi> which occaſi<g ref="char:EOLhyphen"/>oned this queſtion, to wit, <hi>Whither a man could be a Child of two Fathers;</hi> and ſuppoſed he can be, <hi>Whi<g ref="char:EOLhyphen"/>ther he ſhould be esteemed legitimate and rightly born.</hi>
+            </p>
+            <p>The Title of <hi>Heroine</hi> is given to all well moneyed women, who contribute to the reparation of the <hi>Town<g ref="char:EOLhyphen"/>walls,</hi> to the melting of
+<pb n="27" facs="tcp:106942:18"/>
+               <hi>Canons,</hi> and to the pay<g ref="char:EOLhyphen"/>ment of the <hi>Garriſon.</hi>
+            </p>
+            <p>To them <hi>Authours</hi> uſu<g ref="char:EOLhyphen"/>ally Dedicate their Books to engage them yet more in the intereſt of the Land, with their fine <hi>Dedicatorie Epiſtles,</hi> and to puff up their heart. The height of honour is to permit them to take place among the <hi>Doctours of Divinitie,</hi> and many are admitted to it, but they muſt before hand have read ſome certain traductions which do in<g ref="char:EOLhyphen"/>ſpire ſufficiencie, and give good teſtimonie in wri<g ref="char:EOLhyphen"/>ting.</p>
+            <pb n="28" facs="tcp:106942:19"/>
+            <p>In that Region are found many Animals, which are altogether unknown to us: As <hi>Wolves</hi> that bear Wool, <hi>Foxes</hi> of all Haires, and tame ones too that go up and down with their pul<g ref="char:EOLhyphen"/>len, and without offend<g ref="char:EOLhyphen"/>ing them, as 'tis ſaid. Black <hi>Parats,</hi> which ſpeak very well: Pilled <hi>Owles,</hi> that ſing melodiouſly, and that make a better harmony than our <hi>Nightingals.</hi>
+            </p>
+            <p>Their <hi>Calves</hi> are much bigger than ours, their <hi>Aſſes</hi> the like, and out of a Cuſtome received in the Land time out of mind; they take care to cover
+<pb n="29" facs="tcp:106942:19"/>their <hi>Ears;</hi> 'tis the Wo<g ref="char:EOLhyphen"/>mens function to make <hi>Biggins</hi> and <hi>Caps</hi> that are for this uſe. Their <hi>Pyes</hi> which <hi>Chatter</hi> very much, remember nothing but ſuch injurions words as are taught them. Their <hi>Dogs</hi> Bark at none but <hi>Strangers,</hi> for they know them by their ſmell, and cover their naſtyneſs as <hi>Cats</hi> do.</p>
+            <p>But in ſo neat a man<g ref="char:EOLhyphen"/>ner, that there is not the leaſt thing to be ſeen, which hath given ground to ſome of the ignorant ſort to believe that they render up by tranſpiration
+<pb n="30" facs="tcp:106942:20"/>the ſuperfluitie of foods.</p>
+            <p>Whereas they pleaſe themſelves very much in <hi>Writing,</hi> they keep to that purpoſe a great number of <hi>Geeſe,</hi> which makes it evi<g ref="char:EOLhyphen"/>dent they were much wrong'd, when 'twas ſaid that they us'd none but <hi>Eagles</hi> Pens.</p>
+            <p>They have no leſs ſtore of <hi>Horn'd Beaſts</hi> than we, both tame and wilde, and their Forreſts bear <hi>Staggs</hi> of a remarkable greatneſs: but although they take often enough of them, they have not yet thought of hanging the Heads at their Gates.</p>
+            <pb n="31" facs="tcp:106942:20"/>
+            <p>They believed when I was there that ſome In<g ref="char:EOLhyphen"/>chanter had thrown a Charm and miſchievous Witcherie over the Nets of their Hunters; for not<g ref="char:EOLhyphen"/>withſtanding all their care and vigilancy, they never caught but <hi>Bitterns</hi> or <hi>Cranes</hi>
+            </p>
+            <p>Th' <hi>aconit</hi> is the Flower that grows more natural<g ref="char:EOLhyphen"/>ly in the Land, and all their Gardens are in<g ref="char:EOLhyphen"/>fected with that Poiſon. In recompence the <hi>Bay<g ref="char:EOLhyphen"/>tree</hi> grows there very fine<g ref="char:EOLhyphen"/>ly, wherewith they Crown themſelves; for as they be<g ref="char:EOLhyphen"/>lieve themſelves near Kinſ<g ref="char:EOLhyphen"/>men
+<pb n="32" facs="tcp:106942:21"/>men to the <hi>Muſes,</hi> they willingly take the equi<g ref="char:EOLhyphen"/>page of <hi>Parnaſſus,</hi> and beſides there are ſome a<g ref="char:EOLhyphen"/>mong them ſo perſwaded of their Victories, meer<g ref="char:EOLhyphen"/>ly imagining it to be ſo, that they render to their own ſelves the ho<g ref="char:EOLhyphen"/>nour of a perpetual tri<g ref="char:EOLhyphen"/>umph.</p>
+            <p>This Country is very ſubject to be blaſted with Thunder, which makes the Inhabitants ſcarce concern<g ref="char:EOLhyphen"/>ed at it: yet 'tis ſaid they were extreamly troubled when the <hi>Thunder</hi> with<g ref="char:EOLhyphen"/>out <hi>Lightning</hi> before, and without making any great
+<pb n="33" facs="tcp:106942:21"/>noiſe, did beat in pieces the <hi>Epitaph</hi> of their Nati<g ref="char:EOLhyphen"/>on's <hi>Prince.</hi>
+            </p>
+            <p>Beſides the <hi>Rivers</hi> di<g ref="char:EOLhyphen"/>vided for the good of the grounds, and for the com<g ref="char:EOLhyphen"/>modity of Commerce, there is ſeen a <hi>Lake,</hi> which many eſteem very like that of <hi>Geneva;</hi> but others be<g ref="char:EOLhyphen"/>lieve that the figure of it is a little unlike, and it is certain, that the water of it is farre more ſub<g ref="char:EOLhyphen"/>tile.</p>
+            <p>This <hi>Province</hi> produ<g ref="char:EOLhyphen"/>ceth Mines of <hi>gold</hi> and <hi>ſilver,</hi> which make it con<g ref="char:EOLhyphen"/>ſiderable above any other thing: <hi>Quick ſilver</hi> is
+<pb n="34" facs="tcp:106942:22"/>more common in it, and many people make it their buſineſs to find out the ſecret of fixing it. But inſtead of bringing it to paſſe , it always flyes up into their heads, and at length, by a neceſſary ſe<g ref="char:EOLhyphen"/>quel brings great <hi>quakings</hi> upon them.</p>
+            <p>Of all fruits, there is onely the <hi>Winter-pear,</hi> cal<g ref="char:EOLhyphen"/>led, <hi>Bon-Chriſtian</hi> that can<g ref="char:EOLhyphen"/>not grow there, whatever Art you uſe: but they have another which is al<g ref="char:EOLhyphen"/>moſt <hi>like</hi> it, and which they call after the ſame name; the difference is known onely by the taſt,
+<pb n="35" facs="tcp:106942:22"/>which hath nothing of the ſweetneſs of the true <hi>Chri<g ref="char:EOLhyphen"/>tian's-pear.</hi>
+            </p>
+            <p>The <hi>Janſenians</hi> received the Goſpel from one <hi>Mar<g ref="char:EOLhyphen"/>galicus,</hi> a profeſſed ene<g ref="char:EOLhyphen"/>my to our Kings (they do not agree of the year) but intermingled with ſo many wicked and abomi<g ref="char:EOLhyphen"/>nable opinions, that one can neither read nor hear them without horrour.</p>
+            <p>They maintain with much obſtinacy, that there are ſome certain people for whom alone our Savi<g ref="char:EOLhyphen"/>our dyed: that others, the number whereof is in<g ref="char:EOLhyphen"/>comparably far greater,
+<pb n="36" facs="tcp:106942:23"/>receive no manner of helps which might lead them to an happy Eter<g ref="char:EOLhyphen"/>nity: that <hi>Jeſus Chriſt</hi> never intended any ſuch thing, when he ſhed his blood; that if it happen<g ref="char:EOLhyphen"/>eth that he give his grace in <hi>Baptiſme,</hi> or in <hi>Penance</hi> to any one of theſe wretches, 'tis like a fa<g ref="char:EOLhyphen"/>vourable Wind which feeds hope for a while, but which will never lead them into the Haven, and which abandoneth them in the middle of the Waves, thereby to be unavoidably ſuffocated; ſometimes alſo without
+<pb n="37" facs="tcp:106942:23"/>having given occaſion there<g ref="char:EOLhyphen"/>of by any <hi>infidelity.</hi>
+            </p>
+            <p>That it is pleaſing to God to be thus <hi>rigourous;</hi> that to him our ſalvation is aſſured, or otherways, by granting it, or refu<g ref="char:EOLhyphen"/>ſing his graces; that he ad<g ref="char:EOLhyphen"/>mits but of <hi>few,</hi> becauſe he will largely puniſh <hi>Adam</hi>'s Children for their Father's ſin. That he chargeth them with Laws, which they cannot ob<g ref="char:EOLhyphen"/>ſerve, but with that aid which is denied them: that notwithſtanding 'tis enough to deſtroy them <hi>juſtly,</hi> to be able to ſay they have not done
+<pb n="36" facs="tcp:106942:24"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:106942:24"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:106942:25"/>what was commanded them, becauſe it ſuffices that God ordains a thing to bind a man to the ex<g ref="char:EOLhyphen"/>ecution of the precept, were it to flye, though he hath no wings, or that by miſhap they have been cut away from him.</p>
+            <p>That God doth good enough to the <hi>wicked,</hi> when he gives them being , to<g ref="char:EOLhyphen"/>gether with all temporal favours, that make them paſſe away their lives de<g ref="char:EOLhyphen"/>liciouſly. That having de<g ref="char:EOLhyphen"/>ſtinated them to be the victimes of his fury, 'tis a great gratification to them to fatten them up for the
+<pb n="39" facs="tcp:106942:25"/>day of Sacrifice , and Crown them with Flow<g ref="char:EOLhyphen"/>ers that all his mercies to theſe unfortunate People, are onely fine vailes to co<g ref="char:EOLhyphen"/>ver his deſign of damning them; ſweet amuſements, which nevertheleſs bind them to call God their <hi>good Lord,</hi> their <hi>Saviour,</hi> their <hi>loving Father,</hi> al<g ref="char:EOLhyphen"/>though he prepares for them unavoidable puniſh<g ref="char:EOLhyphen"/>ments; and that all their Prayers, all their Penances be not able to move him upon this <hi>Article</hi> of <hi>Eter<g ref="char:EOLhyphen"/>nity.</hi> To be ſhort, that ſetting aſide a ſmall hand<g ref="char:EOLhyphen"/>ful of ſuch as he hath E<g ref="char:EOLhyphen"/>lected
+<pb n="40" facs="tcp:106942:26"/>for Salvation right or wrong, the Devils and all humane kind are alike to him.</p>
+            <p>As to the <hi>Pope,</hi> they ſay that the <hi>Holy Ghoſt</hi> hath not been promiſed him: that he is not to be heeded in what he ſays, if he ſpeak <hi>alone;</hi> that he imagin's to ſee in <hi>Books</hi> what never was in them; and alſo that he cannot Read. That he is an <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>ſurper</hi> of Soveraign power, which ought not to be ſuffered: that <hi>three heads</hi> of their Country-men have more Brains in them, and Learning, than he and all
+<pb n="41" facs="tcp:106942:26"/>the <hi>Cardinals</hi> together, with all the <hi>Divines</hi> in the world: That ſuch as have receiv'd in times paſt (as deciſions of faith) the declarations of <hi>Popes</hi> were meer ſimpletons, brainleſs and heartleſs People.</p>
+            <p>'Tis not yet clearly known what they believe of the <hi>Euchariſt,</hi> but moſt certainly, this is ſaid to be their opinion of it. To ſhew it the greater reſpect, they are wont to <hi>hang</hi> it up in the Church; their reaſon for it is that this was done <hi>heretofore,</hi> and that the time paſt, as the moſt venerable, ought to
+<pb n="42" facs="tcp:106942:27"/>be the Rule of the pre<g ref="char:EOLhyphen"/>ſent time: That <hi>Jeſus Chriſt,</hi> according to Saint <hi>Paul,</hi> is ſeparated from ſinners, in a higher degree than the Heaven, upon which is placed the Throne of his <hi>Majeſty,</hi> that conſe<g ref="char:EOLhyphen"/>quently our <hi>Tabernacles</hi> have not thoſe great ſig<g ref="char:EOLhyphen"/>nifications which do re<g ref="char:EOLhyphen"/>preſent <hi>Myſteries,</hi> and which oblige Chriſtians to remember that our Saviour is above them through ſan<g ref="char:EOLhyphen"/>ctity and place.</p>
+            <p>Some were minded to tell them, that we ought to go along with the times we live in; that this <hi>hang<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="43" facs="tcp:106942:27"/>up of the Hoſt may occaſion many <hi>accidents,</hi> and that 'tis a ſad thing to ſee the Sacrament down upon the ground when the cord is gnawn by ſome beaſt, or chanceth to break through age. That the <hi>Tabernacles</hi> which at this day are in uſe in other Countries , and within hand's reach, do perfectly well expreſs that admira<g ref="char:EOLhyphen"/>ble deſcending of the <hi>humbled Word</hi> into a ſtrange nature, and de<g ref="char:EOLhyphen"/>clare that he is come near us by his holy Incarnati<g ref="char:EOLhyphen"/>on. This advice was judged of no weight, and
+<pb n="44" facs="tcp:106942:28"/>they did determine for ever that the bleſſed Sa<g ref="char:EOLhyphen"/>crament ſhould be hanged up, when there was no o<g ref="char:EOLhyphen"/>ther reaſon but onely that all other Nations, from whom they ought to re<g ref="char:EOLhyphen"/>ceive no rule, do not uſe that way, and that they muſt oppoſe them in it.</p>
+            <p>They have ſo much re<g ref="char:EOLhyphen"/>ſpect for the <hi>Euchariſt,</hi> that one of their greateſt deſires would be to be deprived of it all their life time out of <hi>humility,</hi> and even at the hour of death.</p>
+            <p>In ſome places they hire <hi>Prieſts</hi> to ſay <hi>Maſſe</hi>
+               <pb n="45" facs="tcp:106942:28"/>but ſeldome, to introduce a Cuſtome of it: a thing ſingular enough among theſe People, to pay peo<g ref="char:EOLhyphen"/>ple for doing nothing.</p>
+            <p>I have ſeen in that Country <hi>a form of prayers,</hi> amongſt others this which they are to ſay at the Ele<g ref="char:EOLhyphen"/>vation of the Bleſſed Sa<g ref="char:EOLhyphen"/>crament: <hi>Lord, I adore you upon your Croſſe, and at the general judgement, which is to be at the world's end:</hi> As if a man ſhould ſay to the King, <hi>Sir, I ſa<g ref="char:EOLhyphen"/>lute your Majeſty in the Army where you were two years ago, and in the Pa<g ref="char:EOLhyphen"/>lace in your Seat of Juſtice,
+<pb n="46" facs="tcp:106942:29"/>where you will be within ſix weeks.</hi> Which made me think theirs is not the ſame as ours, touching that <hi>Article,</hi> or that the Au<g ref="char:EOLhyphen"/>thours of thoſe fine Pray<g ref="char:EOLhyphen"/>ers, who have ſo many times examined them, and made them ſo often be Printed, do explicate them<g ref="char:EOLhyphen"/>ſelves very badly.</p>
+            <p>Their <hi>Prieſts</hi> take great delight to hear their Pe<g ref="char:EOLhyphen"/>nitents <hi>repeat</hi> their ſins ſe<g ref="char:EOLhyphen"/>veral times. After they have put them to the trouble of telling <hi>all,</hi> they moſt often <hi>deny</hi> them Ab<g ref="char:EOLhyphen"/>ſolution, without any cauſe that deſerveth it, and com<g ref="char:EOLhyphen"/>fort
+<pb n="47" facs="tcp:106942:29"/>them up with <hi>pro<g ref="char:EOLhyphen"/>miſes:</hi> this <hi>repeating</hi> eſta<g ref="char:EOLhyphen"/>bliſhes ſometimes a great <hi>familiarity</hi> upon matters very grievous among per<g ref="char:EOLhyphen"/>ſons, that ſhould not have any: or cauſeth an ex<g ref="char:EOLhyphen"/>ceeding <hi>ſhame,</hi> which keep<g ref="char:EOLhyphen"/>eth many from <hi>Confeſſion,</hi> reſolving rather to periſh than gain their grace by theſe redoubled <hi>confuſions,</hi> and which are not neceſſa<g ref="char:EOLhyphen"/>ry at all.</p>
+            <p>Indeed 'tis ſaid that the <hi>Doctours</hi> of that Country, do not hold <hi>Abſolution</hi> a very effective thing, that they teach that it is but a ſimple <hi>declaration</hi> of the
+<pb n="48" facs="tcp:106942:30"/>grace one hath obtained by an <hi>inward</hi> ſorrow: that a man may very well be <hi>without</hi> it, and that the releaſed Priſoner ought lit<g ref="char:EOLhyphen"/>tle to care to be told that the Gaoler hath ſet open the Door, or that nothing be ſaid of it to him.</p>
+            <p>Upon this ſuppoſal they do not haſten themſelves to give <hi>Abſolution;</hi> that they refuſe it often enough to <hi>dying</hi> perſons, and re<g ref="char:EOLhyphen"/>mit them to the <hi>next</hi> week.</p>
+            <p>This rigorous proceed<g ref="char:EOLhyphen"/>ing hath caſt many into <hi>deſpair,</hi> and conſtrained many others to go out of
+<pb n="49" facs="tcp:106942:30"/>the Country to diſcharge themſelves of their ſins, amongſt more humane and more reaſonable people, where the Yoke of <hi>Chri<g ref="char:EOLhyphen"/>ſtian Religion</hi> is no hea<g ref="char:EOLhyphen"/>vier than <hi>Jeſus Chriſt</hi> made it.</p>
+            <p>The <hi>Janſenians</hi> ſpeak much of publick <hi>Penance,</hi> but as Women do of <hi>Ar<g ref="char:EOLhyphen"/>mies</hi> where they never go, for there is no one ſeen to do it, and all this tattle aimes and ends but in one thing, to abſtain from the <hi>Euchariſt,</hi> or not to go to hear <hi>Maſſe,</hi> wherein they find moſt wonderful <hi>facilities.</hi> This is their
+<pb n="50" facs="tcp:106942:31"/>Publick <hi>Penance,</hi> their principal <hi>auſterity,</hi> their ad<g ref="char:EOLhyphen"/>mirable <hi>ſanctification.</hi>
+            </p>
+            <p>As the abſtaining from the <hi>Euchariſt</hi> ſeems to them the moſt meritorious of all their <hi>Faſts,</hi> they reckon the Weeks and Months they have forborn it to make to themſelves a great ſubject of conſolation thereo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſometimes alſo they let <hi>Eaſter</hi> paſſe with<g ref="char:EOLhyphen"/>out receiving, and ſay to their Country-men, <hi>God be thanked, 'tis now almoſt two years ſince I received the Sacrament, which puts me in hopes of greater ſtrength, and that he who
+<pb n="51" facs="tcp:106942:31"/>recompenſeth the humble will grant me graces which he affords not thoſe</hi> intempe<g ref="char:EOLhyphen"/>rants <hi>of communion, who would think themſelves ſtarved if they were not continually at the</hi> Holy Ta<g ref="char:EOLhyphen"/>ble: So have they often this word in their mouth, <hi>O Lord, withdraw your ſelf from me, for I am a ſin<g ref="char:EOLhyphen"/>ner,</hi> rather than this, <hi>Come to me, and I'le comfort you.</hi>
+            </p>
+            <p>Notwithſtanding not long ſince, in ſome places they affect <hi>frequent</hi> Com<g ref="char:EOLhyphen"/>munion, and combate their own <hi>maximes,</hi> to ſtop the mouths of ſuch as might ſay: Truly theſe people
+<pb n="52" facs="tcp:106942:32"/>are not wiſe, who believe that Grace is more aboun<g ref="char:EOLhyphen"/>dantly given when one forbears coming to the <hi>ſource</hi> of it; that the heavenly <hi>Bread</hi> does profit thoſe moſt who eat it not, than thoſe who uſe it ve<g ref="char:EOLhyphen"/>ry often: In fine, that ſick people find themſelves bet<g ref="char:EOLhyphen"/>ter, if they bar themſelves of a remedy ordain'd for their recovery.</p>
+            <p>But their <hi>Books,</hi> which they cannot ſuppreſſe now, have declared ſo much as a man may ſay without judging raſhly, that in thoſe places where they re<g ref="char:EOLhyphen"/>ceive the <hi>Bleſſed Sacrament</hi>
+               <pb n="53" facs="tcp:106942:32"/>moſt, that practiſe what they have condemned, they ſubvert what they have endeavoured to build, with all the artifices and cavils of their dangerous eloquence.</p>
+            <p>But perhaps, that ſince they have ſet forth thoſe <hi>Books, humane nature</hi> hath been altered in them, and falls no more into ſuch faults as are common to the <hi>juſt,</hi> which ſaid how<g ref="char:EOLhyphen"/>ſoever ſhall be an impedi<g ref="char:EOLhyphen"/>ment of <hi>Communion,</hi> when that with the difficulties which they did find in it, they perſwaded the people to forbear it altogether.</p>
+            <pb n="54" facs="tcp:106942:33"/>
+            <p>Their <hi>Calender</hi> is very different from ours; they have blotted out of it twelve or fifteen <hi>Popes,</hi> whereof the moſt part have pronounced againſt the errours which they pro<g ref="char:EOLhyphen"/>feſſe, and 'tis doubted whither it be through ven<g ref="char:EOLhyphen"/>geance, or to make place for other <hi>Saints</hi> whoſe names agree with thoſe of their men, and who pleaſe them moſt.</p>
+            <p>They admit of no <hi>Moncks,</hi> but like well of <hi>Nuns,</hi> without letting a man know wherefore, for the Inſtitution is one and the ſame, and it ſeems
+<pb n="55" facs="tcp:106942:33"/>that the conſequences be alike to ſuch as inquire not after <hi>reaſons</hi> in the dif<g ref="char:EOLhyphen"/>ference of <hi>Sexes.</hi>
+            </p>
+            <p>There's great ſtriving who ſhall be <hi>Directour</hi> of theſe <hi>Nuns,</hi> and thoſe who are choſen for that pur<g ref="char:EOLhyphen"/>poſe find therein ſo many allurements, ſo much gen<g ref="char:EOLhyphen"/>tleneſſe, ſo much fruit to be done, that they have much ado to depart from their grates. They for<g ref="char:EOLhyphen"/>bid them expreſly all <hi>Books</hi> which they have not com<g ref="char:EOLhyphen"/>poſed, as being not worth redding or pernicious; ſometimes they go further, and make them vow never
+<pb n="56" facs="tcp:106942:34"/>to <hi>ſee</hi> any of them, leaſt the <hi>anſwers</hi> made to their own may change the minds of theſe <hi>Beata's</hi> whom they keep under Tyranny; and to mitigate this tedious ſer<g ref="char:EOLhyphen"/>vitude by curioſity, which is natural to the Sex, they teach their <hi>Philoſophy</hi> in their Vulgar tongue, or teach them <hi>Latine.</hi>
+            </p>
+            <p>In ſome places the <hi>Di<g ref="char:EOLhyphen"/>rectours</hi> leave off their <hi>long Coats</hi> every morning, and transform themſelves into <hi>Handicrafts-men,</hi> to get leave to go into the <hi>inward</hi> Gardens (which they could not do other<g ref="char:EOLhyphen"/>ways in good conſcience)
+<pb n="57" facs="tcp:106942:34"/>and after they have work<g ref="char:EOLhyphen"/>ed the hour with the Spade or Mattock, by a ſecond <hi>Metamorphoſe</hi> they change their condition, they waſh their hands and face to take off the <hi>duſt</hi> and <hi>ſweat,</hi> they put on again the <hi>long Coat</hi> which they had left off, they become <hi>graver,</hi> they ſpeak of <hi>ſpiritual things,</hi> and then they are called <hi>Prieſts,</hi> as I have been informed by a <hi>Nun</hi> of the Country, whom I had permiſſion to ſpeak with, but after many Ce<g ref="char:EOLhyphen"/>remonies: yet although this is paſs'd over without ſcandal, yea with modeſty,
+<pb n="56" facs="tcp:106942:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="57" facs="tcp:106942:35"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="58" facs="tcp:106942:36"/>as ſhe aſſured me, never<g ref="char:EOLhyphen"/>theleſs a thing ſo extra<g ref="char:EOLhyphen"/>ordinary doth for all that much amaze me.</p>
+            <p>They are ſo <hi>zealous</hi> in their way, for the <hi>propa<g ref="char:EOLhyphen"/>gation</hi> of their Faith, that they do not onely depute <hi>men</hi> to eſtabliſh it where it hath not yet been re<g ref="char:EOLhyphen"/>ceived, but <hi>female Miſſio<g ref="char:EOLhyphen"/>naries,</hi> who explicate their <hi>Divinity</hi> very bravely, which occaſion'd the ſay<g ref="char:EOLhyphen"/>ing, <hi>That in</hi> Janſenia <hi>there are Profeſſors of all Sexes, and that Doctrine was fallen into the Diſtaffe.</hi>
+            </p>
+            <p>Nay, they have <hi>Agents</hi> of <hi>Religion</hi> diſguiſed, who
+<pb n="59" facs="tcp:106942:36"/>go into other Countries to gain people. Theſe ſame are long before they diſcover themſelves, after they have gotten the re<g ref="char:EOLhyphen"/>pute of being peaceable and quiet men, that mind nothing but the pure glo<g ref="char:EOLhyphen"/>ry of God, and only when they foreſee that that may ſerve for the advancement of the <hi>Sect.</hi>
+            </p>
+            <p>That they may be e<g ref="char:EOLhyphen"/>ſteemed more <hi>Religious,</hi> they have ſome <hi>Demy-Anachorets,</hi> who are nei<g ref="char:EOLhyphen"/>ther <hi>Monoks</hi> nor <hi>Seculars;</hi> theſe live very retiredly, and a man can hear no<g ref="char:EOLhyphen"/>thing of their <hi>ſolitude,</hi> but
+<pb n="60" facs="tcp:106942:37"/>that ſome of them make <hi>Baskets,</hi> others <hi>pattins</hi> or <hi>Card-matches,</hi> which are afterwards ſold at the Market, and which the more devout amongſt them eſteem as <hi>relicks.</hi>
+            </p>
+            <p>The <hi>Dutch-men</hi> that have gone into the Coun<g ref="char:EOLhyphen"/>try have there cryed down the <hi>Jeſuits,</hi> wherefore they have made a <hi>Statute</hi> never to admit them, and 'tis believed they'l be more conſtant in this reſolutior, than hath been the <hi>Repub<g ref="char:EOLhyphen"/>lick of Venice.</hi>
+            </p>
+            <p>Theſe people live in a <hi>wonderful <g ref="char:V">Ʋ</g>nion,</hi> what one <hi>does</hi> the reſt <hi>allow</hi> of it
+<pb n="61" facs="tcp:106942:37"/>without any farther exa<g ref="char:EOLhyphen"/>mination; they praiſe one another very friendly, and this <hi>mutual</hi> and perpetual <hi>Panegyrick</hi> is an intimati<g ref="char:EOLhyphen"/>on of a great deal of <hi>cha<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <p>To give renown to their <hi>Preachers,</hi> they draw to their <hi>Sermons</hi> certain folks, inſtructed in all ſuch <hi>ge<g ref="char:EOLhyphen"/>ſtures</hi> as may teſtifie a <hi>rapture</hi> in them, that 'tis impoſſible to <hi>Preach</hi> bet<g ref="char:EOLhyphen"/>ter; yea, they take care that many <hi>Coaches</hi> may be ſeen at the Gates of the <hi>Churches</hi> where the <hi>Ser<g ref="char:EOLhyphen"/>mon</hi> is, and that the <hi>Coach<g ref="char:EOLhyphen"/>men</hi> make a great <hi>railing.</hi>
+            </p>
+            <pb n="62" facs="tcp:106942:38"/>
+            <p>If they give <hi>Almes,</hi> 'tis ever very <hi>exemplarily,</hi> for they take order that <hi>all the World</hi> may know it. For a <hi>Shirt</hi> that one ſhall have beſtowed upon a <hi>Beggar,</hi> it ſhall be preſent<g ref="char:EOLhyphen"/>ly noiſed abroad, that he hath laid out in Charita<g ref="char:EOLhyphen"/>ble deeds above <hi>eight hun<g ref="char:EOLhyphen"/>dred ells of linnen.</hi> For a <hi>Meſſe of Broth</hi> he ſhall have ſent to a Sick Body, they'l ſpeak of no leſſe than of <hi>a Tun of Gelly,;</hi> what they <hi>ſay</hi> they deſire ſhould be kept <hi>private,</hi> is always <hi>thundered</hi> abroad, and a <hi>Shilling</hi> that falls from their hand, makes a grea<g ref="char:EOLhyphen"/>ter
+<pb n="63" facs="tcp:106942:38"/>
+               <hi>noiſe</hi> than all the <hi>Bells</hi> in <hi>our Ladies</hi> Church at <hi>Paris.</hi> In this they ſeem to imitate very much our <hi>Lotteries,</hi> where for a three<g ref="char:EOLhyphen"/>penny <hi>Looking-glaſſe</hi> a man ſhall have drawn, for a <hi>Pair of Gloves</hi> the <hi>Trum<g ref="char:EOLhyphen"/>pet</hi> declares it to all ſtand<g ref="char:EOLhyphen"/>ers by.</p>
+            <p>This 'tis that gives cre<g ref="char:EOLhyphen"/>dit to their <hi>Almes</hi> be they never ſo ſmall: They make a <hi>Common Purſe</hi> of all that each particular perſon hath a devotion to give: as their number is very great, ye muſt not wonder that ſo many drops of water do fill up the Baſon. This
+<pb n="64" facs="tcp:106942:39"/>
+               <hi>heap</hi> being made, the care of it is committed to certain quaint, well agreeing, neat, well ſpoken perſons, and that have a devout, ſweet and winning countenance. Being in <hi>poſſeſſion</hi> of this money, which is not uſe<g ref="char:EOLhyphen"/>leſſe to them, they ſpread it in ſeveral places, and look into the neceffities of the people, that they might have an opportunity of employing thoſe collected ſums, not as <hi>Deputies,</hi> but as <hi>Religious</hi> and <hi>zealous perſons,</hi> that value not the riches of this world, that give them by hand-fulls, and that believe that their
+<pb n="65" facs="tcp:106942:39"/>patrimony doth belong to ſuch as ſtand moſt in need of it. Yet very often thoſe perſons thus ſent about give not any thing of their own, and the peo<g ref="char:EOLhyphen"/>ple believe that they are the <hi>ſpring,</hi> when they are but the <hi>Pipes.</hi>
+            </p>
+            <p>Upon this opinion 'tis ſaid that the Spirit of <hi>Janſenia</hi> is a Spirit of <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> and that there are Divine Men in it who di<g ref="char:EOLhyphen"/>ſtribute what ever they have amongſt the poor: who had rather ſuffer their own ſelves than ſee their Neighbour ſuffer; al<g ref="char:EOLhyphen"/>though, to ſay the truth,
+<pb n="66" facs="tcp:106942:40"/>they well know that theſe praiſes are not due to them. Yet they do willing<g ref="char:EOLhyphen"/>ly accept them and with a ſmiling countenance they tell the company that they are very ſorry they are not able to do any more.</p>
+            <p>This makes them admi<g ref="char:EOLhyphen"/>red, followed, and makes every thing allowed of that comes from their mouth, for the People can<g ref="char:EOLhyphen"/>not believe that <hi>ſuch cha<g ref="char:EOLhyphen"/>ritable people</hi> can or will <hi>lye.</hi>
+            </p>
+            <p>It is reported that <hi>ſa<g ref="char:EOLhyphen"/>vage</hi> people for a Bottle of <hi>Strong-water,</hi> which they love very well, are eaſily perſwaded to be <hi>Chriſti<g ref="char:EOLhyphen"/>ans;</hi>
+               <pb n="67" facs="tcp:106942:40"/>but that the <hi>Water of Baptiſme</hi> alone doth not move them to any devo<g ref="char:EOLhyphen"/>tion. The ſame is ſeen in ſuch as yield to the <hi>Jan<g ref="char:EOLhyphen"/>ſenians;</hi> for the <hi>doctrine</hi> propoſed unto them is re<g ref="char:EOLhyphen"/>ceived but for the <hi>libera<g ref="char:EOLhyphen"/>lities</hi> ſake which attend it: To make this <hi>Drugg</hi> be ſwallowed down, the <hi>Doctours</hi> have taken care that intereſt ſhould be an aſſured <hi>vehicule</hi> of it.</p>
+            <p>This ſame <hi>zeal</hi> which they affect to ſhew to<g ref="char:EOLhyphen"/>wards they poor, makes them diſapprove of what they are told, that in other Countries the
+<pb n="68" facs="tcp:106942:41"/>
+               <hi>Churches</hi> are enriched with <hi>Marble</hi> and <hi>precious Pi<g ref="char:EOLhyphen"/>ctures.</hi>
+            </p>
+            <p>They think that <hi>juſtice</hi> is done to the <hi>poor,</hi> to <hi>deprive</hi> God of theſe great <hi>Ornaments</hi> which do him no good, to convert them to their <hi>own uſe:</hi> and that <hi>Solomon</hi> will have been well ſcourged in the other world for having built ſo magnificent a Temple, which was <hi>guilded</hi> to the very walls : That at that very time he began to fall from his <hi>Wiſdome,</hi> and that there's no doubt to be made, but that all the good people of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi>
+               <pb n="69" facs="tcp:106942:41"/>were much <hi>ſcandaliz'd</hi> at it.</p>
+            <p>The have <hi>Colledges</hi> to inſtruct their youth, and ſome <hi>Silly rich</hi> one gottin by flatteries and praiſes, he takes upon him the payment of the <hi>Profeſſours</hi> wages, or the <hi>Schollars</hi> Penſion, if they are <hi>poor,</hi> but upon condition they ſhall with ſpeed teach them that <hi>Jeſus Chriſt</hi> did not ſuffer for <hi>Still-born Children,</hi> and that all <hi>Infidels</hi> acti<g ref="char:EOLhyphen"/>ons, nay to ſave a Man's Father from <hi>Ship-wrack,</hi> or to hinder <hi>homicide,</hi> are ſo many <hi>mortal ſins</hi> that deſerve everlaſting damna<g ref="char:EOLhyphen"/>tion,
+<pb n="70" facs="tcp:106942:42"/>and that God ought to puniſh as <hi>violators, Par<g ref="char:EOLhyphen"/>ricides</hi> and <hi>Sacriledges;</hi> for they eſteem it a point of <hi>Salvation,</hi> to know and believe all this as well as the Myſterie of the <hi>Tri<g ref="char:EOLhyphen"/>nity,</hi> and the <hi>Incarnation</hi> of the <hi>World;</hi> which is known by the great care they take to inculcate this Do<g ref="char:EOLhyphen"/>ctrine into the minds of <hi>Serving-men, Chamber<g ref="char:EOLhyphen"/>maids, Artiſans,</hi> and by the ſtir they keep when the contrary is avouched.</p>
+            <p>Upon which account they give a <hi>Book</hi> to the young <hi>Schollars,</hi> the leaves whereof are divided in two
+<pb n="71" facs="tcp:106942:42"/>
+               <hi>Columnes:</hi> The one con<g ref="char:EOLhyphen"/>tains the Rules of <hi>Gram<g ref="char:EOLhyphen"/>mar,</hi> the other the Do<g ref="char:EOLhyphen"/>ctrine of <hi>ſtill-born Chil<g ref="char:EOLhyphen"/>dren,</hi> and the Sins of <hi>Infi<g ref="char:EOLhyphen"/>dels.</hi> If they do not learn <hi>both Leſſons</hi> together, their <hi>hinder-part</hi> anſwers for their <hi>Head.</hi> Lo! here one of their queſtions. <hi>Come hi<g ref="char:EOLhyphen"/>ther, Child, if you were an Infidel, and that your Father were fallen into a Well, would you take him out of it?</hi> If he ſays no, <hi>Ah you ingrateful wicked,</hi> ſays the Maſter , <hi>he hath nothing of good nature.</hi> If he ſays yes, he replies to him. <hi>Child, you would do
+<pb n="72" facs="tcp:106942:43"/>very ill: God would take it ill from you, you would damne your ſelf; what, to ſave a Father would you commit a mortal ſin? it would be much more enor<g ref="char:EOLhyphen"/>mous than in letting him periſh: For ſins of omiſſion are more pardonable than the others. When you ſhall be further advanced in learning, you will hear of a certain perſon called the</hi> pi<g ref="char:EOLhyphen"/>ous Aeneas, <hi>becauſe he car<g ref="char:EOLhyphen"/>ried his Father upon his Back to ſave him from fire. He was a</hi> wicked man, <hi>and he could not carry away the good old man without</hi> mor<g ref="char:EOLhyphen"/>tal ſin.</p>
+            <pb n="73" facs="tcp:106942:43"/>
+            <p>They'l tell you farther, that <hi>Biton</hi> and <hi>Cleobis</hi> were good felldws, be<g ref="char:EOLhyphen"/>cauſe their ſick. Mother having a mind to go to the Temple upon a Feſti<g ref="char:EOLhyphen"/>val-day, and having no Coacih-horſes, they faſten<g ref="char:EOLhyphen"/>ed themſelves to the Coach, and drew her thi<g ref="char:EOLhyphen"/>ther. This good office, which gained them an im<g ref="char:EOLhyphen"/>mortal fame, was a great ſin; and if ever any one tells you the contrary, <hi>ſtand in it ſtifly.</hi>
+            </p>
+            <p>You may in time come to read the <hi>Bible,</hi> (for you may become <hi>Prieſts:</hi>) when you read in it that
+<pb n="74" facs="tcp:106942:44"/>the Mid-wives of <hi>Aegypt</hi> would not ſuffocate the <hi>Hebrew Children</hi> as they had order, beware you <hi>value</hi> not that <hi>impious mer<g ref="char:EOLhyphen"/>cy,</hi> for you would value a very <hi>wicked action.</hi>
+            </p>
+            <p>In a word, the <hi>juſtice</hi> which a <hi>Pagan</hi> Judge doth to the people, of it ſelf deſerves <hi>burning,</hi> becauſe that <hi>without grace</hi> all that he doth is <hi>vitiated</hi> and becomes a <hi>crime</hi> out of a corrupted end.</p>
+            <p>As to Still-bom children here is what they ſay. <hi>Chil<g ref="char:EOLhyphen"/>dren, ye muſt obſerve that there are</hi> exceptions, <hi>of</hi> re<g ref="char:EOLhyphen"/>demption <hi>as there are of</hi>
+               <pb n="75" facs="tcp:106942:44"/>Grammar, <hi>and that thoſe muſt needs periſh, whom</hi> Chriſt <hi>would not have to be comprehended in the number of the</hi> redeemed. Among theſe <hi>excluded</hi> wretches are compriſed <hi>ſtill-born</hi> Children; <hi>Alas</hi> (ſay they) <hi>God</hi> would <hi>not have ſuffered for you (young people) if your Mothers had hurt themſelves before their Lying-in, if <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey had flung themſelves out of a Window, or into <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he River, if a Tile had fallen on their Head! but becauſe you were not</hi> ſmo<g ref="char:EOLhyphen"/>hered <hi>in their Wombs , it</hi> may <hi>very well be that</hi> Je<g ref="char:EOLhyphen"/>ſus
+<pb n="76" facs="tcp:106942:45"/>Chriſt may <hi>have ſhed his blood for your ſalvati<g ref="char:EOLhyphen"/>on; for to aſſure you of it, I neither</hi> can, <hi>nor</hi> ought <hi>not.</hi> May <hi>be he hath not ſuffered for</hi> this <hi>fine Child, nor for</hi> that <hi>neither;</hi> may <hi>be he hath , and 'tis the o<g ref="char:EOLhyphen"/>pinion of our</hi> Doctours <hi>that ther's no</hi> certainty <hi>in that point.</hi>
+            </p>
+            <p>As the <hi>Maſters</hi> are one<g ref="char:EOLhyphen"/>ly waged to teach them thoſe things and others as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t falls out, they are migh<g ref="char:EOLhyphen"/>ty careful that their Schol<g ref="char:EOLhyphen"/>lars be not ignorant there<g ref="char:EOLhyphen"/>in, ſhould they <hi>die</hi> for fear, or go out of their <hi>wits,</hi> as 't often comes to paſs.</p>
+            <pb n="77" facs="tcp:106942:45"/>
+            <p>The Women that are ordained to teach little Girls to read, are not in appearance leſſe zealous in inſpiring their belief into thoſe young ones. <hi>Do not think Girls,</hi> ſay they, <hi>that God's grace is always with us; alas! no. There are ſome miſerable times, when there is a</hi> neceſſity <hi>of periſhing: What ſhould we do if God withdraw himſelf from us? This happens very often though; are not we very unhappy?</hi> Chaſti<g ref="char:EOLhyphen"/>ty <hi>is injoyned us, and ſome<g ref="char:EOLhyphen"/>times we are deſtitute of</hi> neceſſary <hi>power to continue it: Be mindful of this</hi>
+               <pb n="78" facs="tcp:106942:46"/>(Girls) <hi>it concerns your</hi> Salvation <hi>not to be ignorant of it, and you may upon oc<g ref="char:EOLhyphen"/>caſion ſtand in need of it. There are</hi> Husbands <hi>that would not be ſo</hi> cruel <hi>to their Wives had they</hi> ſtu<g ref="char:EOLhyphen"/>died <hi>Divinity; for they would know that grace is often times</hi> denied <hi>us, and that in this caſe they muſt rather</hi> pitty <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out infirmities, than be</hi> angry <hi>at faults we fall into by the</hi> abſence <hi>of ſuch helps as God doth</hi> re<g ref="char:EOLhyphen"/>fuſe <hi>us, either to</hi> chaſtiſe <hi>us for our infidelities, or to</hi> teach <hi>us by a neceſſary fall that we can do nothing with<g ref="char:EOLhyphen"/>out him.</hi>
+            </p>
+            <pb n="79" facs="tcp:106942:46"/>
+            <p>Thus they frame little Girls to that patience which runs them into the greateſt ſhames of the Sex, when the ſollicitations are preſſing, and the occaſions preſent: for although they <hi>intend</hi> not to give Leſſons of impudicity to their lit<g ref="char:EOLhyphen"/>tle Scholars, yet the Do<g ref="char:EOLhyphen"/>ctrine <hi>tends</hi> to it, and when age hath <hi>ripened</hi> the body, nature can <hi>quicken</hi> the me<g ref="char:EOLhyphen"/>mory with it.</p>
+            <p>The <hi>Gallants</hi> too in <hi>Jan<g ref="char:EOLhyphen"/>ſenia</hi> never fail to quote their Doctours to ſuch as they will corrupt, and to tell them that there are <hi>moments</hi> wherein reſi<g ref="char:EOLhyphen"/>ſtance
+<pb n="80" facs="tcp:106942:47"/>is not in our <hi>pow<g ref="char:EOLhyphen"/>er.</hi>
+            </p>
+            <p>This impreſſion, toger<g ref="char:EOLhyphen"/>ther with concupiſcence, which is ſtirred up by theſe pernicious diſcourſes, makes a miſerable creature eaſily believe that the mo<g ref="char:EOLhyphen"/>ment wherein ſhe is ſpok<g ref="char:EOLhyphen"/>en to is that very <hi>inſant</hi> which is not in the <hi>diſpo<g ref="char:EOLhyphen"/>ſion</hi> of the will, and that 'tis time to yield, ſince that God doth no longer <hi>ſide</hi> with aſſanlted vir<g ref="char:EOLhyphen"/>tue.</p>
+            <p>Among them ſingle-life is annexed to <hi>Prieſt<g ref="char:EOLhyphen"/>hood</hi> as in the <hi>Romane</hi> Church, but 'tis unknown
+<pb n="81" facs="tcp:106942:47"/>whither they would admit this Cuftome into the Country, if it were not al<g ref="char:EOLhyphen"/>ready introduced into it. And indeed I have ſeen ſome officious Lay-men , who did purpoſe to re<g ref="char:EOLhyphen"/>monſtrate how very in<g ref="char:EOLhyphen"/>commodious it was; that it may cauſe much incon<g ref="char:EOLhyphen"/>tinency in ſuch as have de<g ref="char:EOLhyphen"/>dicated themſelves to the Altar: that by means of this rigorous Law, the De<g ref="char:EOLhyphen"/>votion to the Sacrament of Marriage would be dead<g ref="char:EOLhyphen"/>ned; and they ſaid all this with their eyes turned up to heaven, lifting up their Shoulders with many ſighs.</p>
+            <pb n="82" facs="tcp:106942:48"/>
+            <p>They ſuffer Lay-people to receive under <hi>one kind,</hi> but many among them affirme that the <hi>contrary</hi> would be much coveted. 'Tis believed that this <hi>light</hi> was brought to them from <hi>England</hi> with other <hi>Merchandizes,</hi> whereof they made no brags, be<g ref="char:EOLhyphen"/>cauſe they were liable to Confiſcation, and that they would have been repre<g ref="char:EOLhyphen"/>hended for having recei<g ref="char:EOLhyphen"/>ved them contrary to the Magiſtrates order.</p>
+            <p>'Tis a common opinion that the people of <hi>Janſe<g ref="char:EOLhyphen"/>nia</hi> would eaſily acknow<g ref="char:EOLhyphen"/>ledge the authority of the
+<pb n="83" facs="tcp:106942:48"/>
+               <hi>Holy Sea,</hi> if the <hi>Doctours</hi> of the <hi>Law</hi> did not hin<g ref="char:EOLhyphen"/>der it. But above all things they have an eye to that, and go from houſe to houſe to confirme ſuch as waver in their Faith, exhorting them with great importunity to perſeve<g ref="char:EOLhyphen"/>rance in the <hi>Religion</hi> of the Country, and even ſuffer <hi>Martyrdome,</hi> in caſe any Foraign Power ſhould force them to be of ano<g ref="char:EOLhyphen"/>ther opinion.</p>
+            <p>This care did not for all this hinder a publick Mutiny ſome years ſince, upon the violent ſuſpition that many had, that their
+<pb n="84" facs="tcp:106942:49"/>eaſineſs was abuſed, and that the reaſon why there was no intelligence with the <hi>Pope,</hi> is becauſe <hi>Rome</hi> and <hi>Errour</hi> do not agree. Upon thoſe complaints, the conſequences whereof might be very dangerous; the <hi>Doctours</hi> aſſembled concluded that time was to be obeyed, content the people, and ſend <hi>Deputies</hi> to the <hi>Biſhop</hi> of <hi>Rome,</hi> as it were to ſubmit them<g ref="char:EOLhyphen"/>ſelves to his <hi>orders,</hi> and to <hi>deſire</hi> of him the clearing of ſome doubts which troubled their conſciences. That if he approved their Doctrrine, all the better,
+<pb n="85" facs="tcp:106942:49"/>becauſe they demanded nothing more, but that the <hi>Church</hi> ſhould <hi>yield</hi> and <hi>own</hi> that ſhe had fail<g ref="char:EOLhyphen"/>ed till <hi>then;</hi> that if to the contrary he determined any thing that they did not uſually teach, they would ſearch after expli<g ref="char:EOLhyphen"/>cations that would ſatisfie the people, without any ways hurting the belief of the Country; and becauſe they gave a near guefs to what <hi>Rome</hi> ought to ſay upon that matter, that they would have anſwers ready to ſatisfie the obje<g ref="char:EOLhyphen"/>ctions of their enemies. That they would more<g ref="char:EOLhyphen"/>over
+<pb n="86" facs="tcp:106942:50"/>make many <hi>Tranſla<g ref="char:EOLhyphen"/>tions</hi> of certain Treatiſes of the <hi>Fathers</hi> which ſeem<g ref="char:EOLhyphen"/>ed not to ſwarve much from their Opinion, and that when there ſhould be but <hi>one</hi> period that might favour them, they ought to Tranſlate the <hi>whole</hi> Book, to ſhew it to the people and women.</p>
+            <p>Moreover 'twas decreed, that if any of them, to avoid the Thunder of the <hi>Vatican,</hi> did ſlacken in his obedience, and did come to Sign any Article that might prejudice them, they would declare him ſepara<g ref="char:EOLhyphen"/>ted from their Body, un<g ref="char:EOLhyphen"/>worthy
+<pb n="87" facs="tcp:106942:50"/>worthy of ever having been of it, and of being capable to be of it; that as one Excommunicated he ſhould no longer ſhare in the graces of their friend<g ref="char:EOLhyphen"/>ſhip, entertainment, elo<g ref="char:EOLhyphen"/>gies, nor in the merits of their purſe.</p>
+            <p>Before they ſeparated themſelves, they bethought themſelves of ſome means to gain ſome <hi>Biſhops,</hi> which might very much contri<g ref="char:EOLhyphen"/>bute to the reputation of their Doctrine, even when the <hi>Pope</hi> had condemned him for an <hi>Heretick,</hi> be<g ref="char:EOLhyphen"/>cauſe it would be an eaſie matter to perſwade the
+<pb n="88" facs="tcp:106942:51"/>weaker ſort of people, that the faith of tire <hi>Pre<g ref="char:EOLhyphen"/>late</hi> is always that of the <hi>Church.</hi>
+            </p>
+            <p>Some did repreſent, that in <hi>Italy</hi> there were many poor Biſhops, that it ſhould be propoſed to ſome of them by civil Letters, that if they would have the goodneſs to come into <hi>Janſenia,</hi> where their fame was already much ſpread, they ſhould there receive all the honour due to their merits; that although it was not decent to pro<g ref="char:EOLhyphen"/>poſe reaſons of utility to diſintereſted <hi>Prelates,</hi> ne<g ref="char:EOLhyphen"/>vertheleſſe they were deſi<g ref="char:EOLhyphen"/>red
+<pb n="89" facs="tcp:106942:51"/>to bear with that word: That <hi>Janſenia</hi> did well know how to reward their pains, that it would maintain their Tables, their Coaches, their whole train, and farther that none ſhould know ſo much.</p>
+            <p>'Twas to be added, that if they apprehend the trouble of giving orders, they might often <hi>diſpenſe</hi> therewith, becauſe they would have but very few <hi>Prieſts,</hi> and that one <hi>Maſs</hi> a Week in each <hi>Church</hi> would ſuffice, that they would allow them great <hi>Vicars</hi> that ſhould be peo<g ref="char:EOLhyphen"/>ple of repute, if they
+<pb n="90" facs="tcp:106942:52"/>would not make choice of ſome themſelves; but that above all, they ſhould not bring any <hi>Moncks</hi> with them, becauſe that Gene<g ref="char:EOLhyphen"/>ration ſpeaks of nothing but <hi>Priviledges,</hi> and that their Country allows not of them.</p>
+            <p>Others were of Opini<g ref="char:EOLhyphen"/>on, that they ſhould write into <hi>Spain,</hi> where they believed they might find men ready to do any thing out of conſideration of <hi>greatneſſe,</hi> for it is the paſ<g ref="char:EOLhyphen"/>ſion of <hi>Spaniards,</hi> and a man thinks himſelf happy enough if he hath the Wall, though he were to
+<pb n="91" facs="tcp:106942:52"/>ſuck nothing but <hi>Wind,</hi> and cat nothing but <hi>Red<g ref="char:EOLhyphen"/>diſhes.</hi> They were to re<g ref="char:EOLhyphen"/>preſent in theſe Letters the diſpoſition they were in to give them the ſame rank among them as the <hi>Pope</hi> hath in <hi>Rome;</hi> that nothing ſhould be done without their order; that the whole Nation was of the ſame mind, and reſolv<g ref="char:EOLhyphen"/>ed to ſpare nothing to make the Biſhop and his People bear the image of the Triumphant <hi>Church.</hi>
+            </p>
+            <p>Some did turn their thoughts towards <hi>France,</hi> but others of a more clear<g ref="char:EOLhyphen"/>er wit give notice that in
+<pb n="92" facs="tcp:106942:53"/>that Kingdome the Bi<g ref="char:EOLhyphen"/>ſhops did in ſuch manner concurr with the <hi>Pope,</hi> that not was it credible that they would ever be will<g ref="char:EOLhyphen"/>ing to forſake him. That if any one of them did ſtand up for <hi>Janſenia,</hi> he would be looked upon by the other <hi>Prelates</hi> as a de<g ref="char:EOLhyphen"/>ſertour of the Faith; and what ever ſhew he might make of honeſty, no one would have a good opi<g ref="char:EOLhyphen"/>nion of him: In a word, that it would be a ſuper<g ref="char:EOLhyphen"/>fluous thing, and they would expoſe themſelves to a manifeſt refuſal, by drawing to their party
+<pb n="93" facs="tcp:106942:53"/>men that have reſolved the contrary, and who for to gain the world would not expoſe themſelves to ſo great an infamy.</p>
+            <p>This diverſity of Opi<g ref="char:EOLhyphen"/>nions was the cauſe at that time they did deter<g ref="char:EOLhyphen"/>mine nothing as to that <hi>Article,</hi> and thus they broke off having admo<g ref="char:EOLhyphen"/>niſhed their <hi>Deputies,</hi> that the Air of <hi>Rome</hi> was no ways wholeſome for them, that they ſhould not for<g ref="char:EOLhyphen"/>get their <hi>Caps,</hi> to the end they might be always <hi>co<g ref="char:EOLhyphen"/>vered,</hi> even <hi>before</hi> the <hi>Pope,</hi> and that when they ſhould be returned back
+<pb n="94" facs="tcp:106942:54"/>into <hi>Janſenia</hi> their native Country, it would be time enough to <hi>uncover</hi> themſelves.</p>
+            <p>Not long after there was a rumour ſpread up and down, that the Plague had ſpoiled all <hi>Janſenia,</hi> and that there was not a ſoul left in it; for albeit that this <hi>Province</hi> be ſub<g ref="char:EOLhyphen"/>ject to <hi>great winds,</hi> which made a doubt that it was not <hi>EAolia,</hi> yet the <hi>Plague</hi> makes there often great ravages, which much amaz<g ref="char:EOLhyphen"/>eth the Phyſitians, and there was ground to be<g ref="char:EOLhyphen"/>lieve that the diſtemp had been great.</p>
+            <pb n="95" facs="tcp:106942:54"/>
+            <p>Then it was that one might eaſily perceive that the <hi>Janſenians</hi> were <hi>abo<g ref="char:EOLhyphen"/>minable</hi> to the whole world. For upon the news that their generation was <hi>extinguiſhed,</hi> many people did ſtrive who ſhould make the greateſt <hi>Bone-fires,</hi> and knocked out the Heads of Wine<g ref="char:EOLhyphen"/>veſſels in the ſtreets, be<g ref="char:EOLhyphen"/>lieving that they could not be too <hi>profuſe</hi> in expreſ<g ref="char:EOLhyphen"/>ſing their <hi>joy;</hi> but this ſa<g ref="char:EOLhyphen"/>tisfaction did laſt no longer than till the beginning of the following Winter. For even then thoſe <hi>Janſeni<g ref="char:EOLhyphen"/>ans</hi> whom the Plague had
+<pb n="96" facs="tcp:106942:55"/>diſperſed, and who had retired themſelves into their <hi>Caverns,</hi> began to come out of their Holes, with countenances that had not yet loſt all the marks of fear. They came to Town again by little and little, ſometimes ſingle, ſometimes two by two, after having an hundred times drawn back their feet upon ſuſpicion, whi<g ref="char:EOLhyphen"/>ther they ſhould be ſafe in their firſt Lodgings. In fine, all fear was laid a<g ref="char:EOLhyphen"/>ſide, experience having ſhewn that the <hi>ill air</hi> was diſſipated, and becauſe the mortality had not been
+<pb n="97" facs="tcp:106942:55"/>great, whatever fears or noiſe it had raiſed, in leſs then ſix months the Town was near as ful as ever.</p>
+            <p>The other people that had rejoyced for their death, did expreſs ſo much trouble for the return of the <hi>Janſenians,</hi> that they were even going into <hi>mourning.</hi> Since that there hath been nothing but <hi>in<g ref="char:EOLhyphen"/>ſultings</hi> on all ſides; the one taxing their enemies with <hi>cowardiſe,</hi> for ha<g ref="char:EOLhyphen"/>ving been ſo paſſionate a<g ref="char:EOLhyphen"/>gainſt ſuch as they believ<g ref="char:EOLhyphen"/>ed were <hi>dead:</hi> They on the contrary upholding that they had not done
+<pb n="98" facs="tcp:106942:56" rendition="simple:additions"/>
+               <hi>enough,</hi> and that the world could not ſhew <hi>joy</hi> enough in being rid of ſuch a <hi>wretched Sect.</hi>
+            </p>
+            <trailer>END</trailer>
+            <pb facs="tcp:106942:56" rendition="simple:additions"/>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:106942:57"/>
+            <p>
+               <figure>
+                  <head>IANSENIA</head>
+               </figure>
+            </p>
+         </div>
+         <div type="explanation">
+            <pb facs="tcp:106942:58"/>
+            <pb n="99" facs="tcp:106942:58"/>
+            <head>AN EXPLICATION OF THE MAP.</head>
+            <p>
+               <hi>JAnſeniſme</hi> is in an equal diſpoſition to <hi>Liberty, Deſpair,</hi> and <hi>Calvi<g ref="char:EOLhyphen"/>niſme.</hi> The opinion that Grace doth neceſſitate the will to good, when 'tis granted us, happen what will, and do what one can, makes the <hi>Libertine.</hi> The Doctrine that teach<g ref="char:EOLhyphen"/>eth
+<pb n="100" facs="tcp:106942:59"/>that <hi>Jeſus Christ</hi> did not dye for <hi>all,</hi> and that he will refuſe his Grace to <hi>many,</hi> that cannot be ſaved but by it, maketh the <hi>Deſperate.</hi> The Sect that debars the Liberty of Man of the ſource thereof, that maintains that God's Com<g ref="char:EOLhyphen"/>mandements are <hi>impoſſible,</hi> that moveth one to the contempt of the Supream <hi>Biſhop,</hi> of his Decrees, of his Cenſures, makes the <hi>Calviniſt</hi> and <hi>Presbyterian.</hi>
+            </p>
+            <p>Thoſe that ſeem not to reach ſo far, looſe them<g ref="char:EOLhyphen"/>ſelves in <hi>Janſeniſme</hi> it ſelf, as you may perceive by theſe <hi>Monſters,</hi> and by
+<pb n="101" facs="tcp:106942:59"/>thoſe <hi>Shipwracks</hi> in the <hi>Sea</hi> that bears it's name.</p>
+            <p>Theſe <hi>Rivers,</hi> theſe <hi>Coaches,</hi> theſe <hi>Poſt-horſes,</hi> theſe <hi>Boats</hi> laden with <hi>Books</hi> and other Marchan<g ref="char:EOLhyphen"/>diſe, do make appear whi<g ref="char:EOLhyphen"/>ther <hi>Janſeniſme</hi> doth tend, and the reaches thereof: Her communications with the <hi>Errants,</hi> whom ſhe will not own, and in fine, how dangerous it is to profeſſe a Doctrine, the principles whereof does in<g ref="char:EOLhyphen"/>vite and draw people to <hi>Charenton,</hi> to Debauchery, or to the Halter.</p>
+            <p>Theſe <hi>Cypreſs-trees</hi> which grow amongſt the Rocks,
+<pb n="102" facs="tcp:106942:60"/>theſe <hi>doleful</hi> trees where ye ſee Men hanged up, make it appear that the Country bordering upon <hi>Janſenia</hi> on the Weſtern part is a Land of <hi>Deſpair.</hi> That which ye ſee over againſt it, hath not any thing but what's <hi>pleaſing,</hi> ſo is it more inhabited than the other, becauſe that <hi>Liberty</hi> allures more people, than the <hi>diffidence</hi> of God's goodneſs doth <hi>ruin.</hi> Thoſe <hi>Statues</hi> of <hi>Bacchus</hi> and of <hi>Venus</hi> do evidence the <hi>exerciſes</hi> of ſuch as went from <hi>Janſe<g ref="char:EOLhyphen"/>niſme</hi> into this Land of <hi>Pleaſure,</hi> and the <hi>Gods</hi> that
+<pb n="103" facs="tcp:106942:60"/>are adored there. <hi>Calvi<g ref="char:EOLhyphen"/>nia</hi> that takes the upper hand of the <hi>Map,</hi> and whi<g ref="char:EOLhyphen"/>ther ye ſee ſo many peo<g ref="char:EOLhyphen"/>ple go, notifies what ye know of theſe wretches, who after having for a time toſſed themſelves to and fro under an <hi>ambigu<g ref="char:EOLhyphen"/>ous</hi> name, did at length declare themſelves true Di<g ref="char:EOLhyphen"/>ſciples of <hi>Calvin.</hi> Theſe others that dig the ground in <hi>Janſenia,</hi> would not be ſo earneſt at their work if they were not in hopes to reap ſome benefit thereby. The Sepulcher ſtrucken with a Thunder-bolt is that of the <hi>Flemiſh Profeſſor's,</hi>
+               <pb n="104" facs="tcp:106942:61"/>whoſe <hi>Epitaph</hi> was con<g ref="char:EOLhyphen"/>demned and cauſed to be razed out by the <hi>Pope.</hi> The <hi>Book</hi> ſays enough of the <hi>Lake.</hi> This ſame <hi>Forreſt</hi> where you ſee a place of Habitation, is the Reti<g ref="char:EOLhyphen"/>ring-houſe of the <hi>Demy-Moncks,</hi> who are what they are not, and are not what they are. 'Tis left to you to gueſs the Creatures for your ſervice: Theſe half Muzled <hi>Aſſes,</hi> theſe Flocks of <hi>Geeſe,</hi> theſe huge <hi>Calves</hi> that a man would take for <hi>Oxen,</hi> theſe <hi>Sheep-wolves,</hi> theſe pleaſant <hi>Owles,</hi> theſe great horned <hi>Stags,</hi> theſe <hi>Foxes</hi> that befriend <hi>Hens</hi>
+               <pb n="105" facs="tcp:106942:61"/>ſo much, for all theſe well deferve your pains in look<g ref="char:EOLhyphen"/>ing into the meaning of them. There are yet other creatures ſpoken of in the Relation of the Country, weigh all the words of it, there are none but may be made uſe of, if ye read it as ye ſhould do from one end to the other, ye will (with delight) diſcover what the <hi>Janſeniſts</hi> do <hi>teach,</hi> what they <hi>hatch,</hi> what they <hi>have done,</hi> and what they <hi>can do.</hi>
+            </p>
+         </div>
+         <div type="letters">
+            <pb facs="tcp:106942:62"/>
+            <pb n="107" facs="tcp:106942:62"/>
+            <head>Juſt as I was making an end of this Relation, theſe two Letters which treat of the fame thing, were put into my Hand by a friend that had taken a Copy of them. I thought it would oblige you, Reader, to let you have a ſight of them.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Am told that <hi>Janſe<g ref="char:EOLhyphen"/>niſme</hi> lyes deſperate<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſick: if it dies, as it
+<pb n="108" facs="tcp:106942:63"/>is very likely, it will not have lived long. We ought to believe that God is abſolutely willing it ſhould be de<g ref="char:EOLhyphen"/>ſtroyed; ſince that all manner of remedies prove ineffectual, and that although it be in the height of youth, yet it cannot eſcape. 'Tis affirmed, that it hath made a <hi>Will,</hi> and that it <hi>Bequeaths</hi> its <hi>Books</hi> to a <hi>Miniſter,</hi> whoſe name I could not learn: He
+<pb n="109" facs="tcp:106942:63"/>that will be choſen to make the <hi>Funeral Ser<g ref="char:EOLhyphen"/>mon,</hi> will have matter inough if he will forget nothing, and follow his inſtructions. I ſaw a <hi>Paper</hi> by chance, wherein he is highly praiſed, for having been ſo generous as to fly out againſt two <hi>Popes,</hi> and for having withſtood four <hi>Anathemes</hi> with<g ref="char:EOLhyphen"/>out ſtirring. I do not think there is any <hi>pray<g ref="char:EOLhyphen"/>ing</hi> for it now 'tis dead,
+<pb n="110" facs="tcp:106942:64"/>nor that it will receive the uſual Ceremonies to the deceaſed, becauſe it's near Relations will believe it to be glorious in heaven, at the very moment of it's expira<g ref="char:EOLhyphen"/>tion, and that they are not people that wilt ap<g ref="char:EOLhyphen"/>ply to him the <hi>Indulgen<g ref="char:EOLhyphen"/>cies</hi> of <hi>Rome,</hi> or <hi>ſprinkle</hi> it with <hi>holy Water;</hi> for as you well know 'tis not their devotion. If they follow the cuſtom of their good friends,
+<pb n="111" facs="tcp:106942:64"/>they may well ſay thus, <hi>Sleep Corps until the Lord doth awake thee.</hi> My Letter mentioneth that many of the ſick per<g ref="char:EOLhyphen"/>ſons Domeſticks will not need to trouble themſelves to look a Maſter after its death, becauſe many worthy perſons of ſeveral quali<g ref="char:EOLhyphen"/>ties, and ſome Church<g ref="char:EOLhyphen"/>men have engaged to take them, giving them another kind of Livery. We ſhall know for cer<g ref="char:EOLhyphen"/>tain
+<pb n="112" facs="tcp:106942:65"/>by that, thoſe that were the deceaſed's true friends, and there will be no farther need of gueſſing at inclinations, that will be better known by their Signs than any <hi>Scrivener.</hi> If there be an Inventary made of all moveables, with the forms receiv<g ref="char:EOLhyphen"/>ed in <hi>France,</hi> thoſe that take delight to diſguiſe themſelves at <hi>Shrovetide</hi> will be fitted at a cheap rate; for 'tis ſaid there
+<pb n="113" facs="tcp:106942:65"/>are above fifty, as well <hi>Perriwigs</hi> as <hi>Beards,</hi> and as many ſeveral ha<g ref="char:EOLhyphen"/>bits as it uſually wore, ſutable to the part it would act, when it had no mind to be known: But there is no likely<g ref="char:EOLhyphen"/>hood that the heirs will produce all this: They may keep them for their own uſe, and prudence will undoubtedlyoblige them to divide among themſelves in a friend<g ref="char:EOLhyphen"/>ly manner all things of
+<pb n="114" facs="tcp:106942:66"/>this nature. I fancy they'l be careful in burn<g ref="char:EOLhyphen"/>ing ſeveral <hi>Letters</hi> and other <hi>Papers,</hi> which might reveal <hi>Myſteries</hi> if ſeen; for to this day all things are written in <hi>Cyphers,</hi> and ſince what was diſcovered in the <hi>Flemiſh Doctors</hi> Letters, which were more ob<g ref="char:EOLhyphen"/>ſcure than any <hi>Aenig<g ref="char:EOLhyphen"/>ma,</hi> 'tis not credible that a ſecret communicated to a friend in unknown <hi>tearms</hi> or barbarous <hi>fi<g ref="char:EOLhyphen"/>gures,</hi>
+                  <pb n="115" facs="tcp:106942:66"/>can be long with<g ref="char:EOLhyphen"/>out being known, if it falls into anunderſtand<g ref="char:EOLhyphen"/>ing mans hands. When I know more, I will ac<g ref="char:EOLhyphen"/>quaint you with it, in the mean time I will re<g ref="char:EOLhyphen"/>main as ever</p>
+               <closer>
+                  <salute>SIR,</salute> 
+                  <signed> Your moſt humble, <hi>&amp;c.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="116" facs="tcp:106942:67"/>
+               <head>Anſwer.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> cannot conceive where you have diſpoſed of your charity, truly 'tis not well done, to jeer ſick perſons thus. You make that the ſubject of your recreation which to many others is a great afflicti<g ref="char:EOLhyphen"/>on. Will you believe that I have ſeen ſome ſo overcome with pain that
+<pb n="171" facs="tcp:106942:67"/>they even almoſt loſt their ſences. If death fol<g ref="char:EOLhyphen"/>lows the diſeaſe, it will be far worſe, and I am much affraid they may chance to exclaim againſt per<g ref="char:EOLhyphen"/>ſons in power whichwould deſerve an examplary pu<g ref="char:EOLhyphen"/>niſhment; for I queſtion not but the Magiſtrates would take notice of it, and there would be an end of them if they were called to the Bar. But, I pray, think me not a worſe Catholick for being
+<pb n="118" facs="tcp:106942:68" rendition="simple:additions"/>of this judgment, for al<g ref="char:EOLhyphen"/>though thoſe people be not of our Religion, yet their tears move me, becauſe I am a man, and becauſe compaſsion is a due from us, not onely to the juſt that are afflicted, but alſo to wretched criminals, I am</p>
+               <closer>
+                  <salute>SIR,</salute> 
+                  <signed> Your, <hi>&amp;c.</hi>
+                  </signed>
+               </closer>
+               <pb facs="tcp:106942:68"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
